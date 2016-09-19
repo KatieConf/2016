@@ -35,4 +35,3 @@ Remember to add a `<div class="row">` for new rows
  - Have `@KatieConf` follow new listing
  - Append talk to YouTube playlist (or add note to description if non YT link)
  - Tweet out nice things <3
-
