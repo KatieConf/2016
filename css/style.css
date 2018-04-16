@@ -40,3 +40,8 @@ h5 {
 .speaker.name { 
     display:inline-block;
 }
+.year-header { 
+    color: white;
+    text-align: center;
+    font-size: 20pt; 
+} 
